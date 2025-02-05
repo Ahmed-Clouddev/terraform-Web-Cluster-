@@ -48,4 +48,4 @@ This repository contains a Terraform configuration that creates an AWS Auto Scal
 
    ```bash
    git clone https://github.com/your-username/terraform-Web-Cluster-.git
-   cd your-repo-name
+  
