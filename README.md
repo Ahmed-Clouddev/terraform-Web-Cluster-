@@ -47,5 +47,5 @@ This repository contains a Terraform configuration that creates an AWS Auto Scal
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/terraform-Web-Cluster-.git
+   git clone https://github.com/Ahmed-Clouddev/terraform-Web-Cluster-.git
   
